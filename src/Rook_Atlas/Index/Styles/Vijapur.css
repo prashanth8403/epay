@@ -1,0 +1,874 @@
+﻿body 
+{
+    font-family:Arial;
+    margin:0px;
+    background-color: #eeeeee;
+    margin-bottom:20px;
+   
+}
+
+.preview
+{
+    display: block;
+    overflow: auto;
+    height: 100%;
+    max-width: 100%;
+    min-width: 1300px;
+    min-height:480px;
+}
+
+
+.global-header 
+{
+    
+    margin:0px;
+    display: block;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 20px 0px 20px 0px;
+    box-shadow: -2px -0px 5px 1px #8c8b8b;
+    position: fixed;
+}
+
+.global-header a 
+{
+        padding: 10px 15px 10px 15px;
+        text-decoration: none;
+        color: rgb(50,150,255);
+        border-radius: 35px;
+        font-family: Arial;
+        cursor: pointer;
+        background-color: #b5b5b5;
+}
+
+.global-panel-left
+{
+        float: left;
+        margin-left:5%;
+    
+}
+
+.global-panel-left a
+{
+        color: #000000;
+        font-family:'Nuntio' ;
+        font-size:25px;
+        padding:0px 0px 0px 0px;
+}
+
+.global-panel-right 
+{
+        float: right;
+        margin-right: 5%;
+}
+
+.global-panel-right a 
+{
+        padding: 5px 12px 5px 12px;
+        text-decoration: none;
+        font-size: 16px;
+        font-weight: 600;
+        font-family: 'Segoe UI';
+        color: #ffffff;
+        display: block;
+        border-radius: 50px;
+        border-width: 0px;
+}
+
+.global-panel-right a:hover
+{
+        background-color:rgb(0, 148, 255);
+}
+
+.global-profile-drop
+{
+        border-radius:4px;
+        background:#ffffff;
+}
+
+
+.global-dropdown 
+{
+    display: none;
+    background: #ffffff;
+    border: 1px solid #c3bebe;
+    font-family: Arial;
+    position: absolute;
+    z-index: 1;
+    margin-left:10px;
+    min-width: 180px;
+    border-radius: 4px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+
+.global-dropdown a 
+{
+        color: black;
+        padding: 8px 5px 8px 10px;
+        text-decoration: none;
+        display: block;
+        background: #ffffff;
+        z-index: 1;
+        border-radius: 0px;
+        color: #1d1c1c;
+        font-size: 15px;
+        font-family: 'Questrial';
+}
+
+.ProfileBtn, .LogoutBtn 
+{
+    width: 100%;
+    min-width: 180px;
+    font-family: 'Questrial';
+    height: 30%;
+    padding: 8px 5px 8px 10px;
+    text-decoration: none;
+    display: block;
+    background: #ffffff;
+    z-index: 1;
+    text-align:left;
+    border-radius: 0px;
+    color: #1d1c1c;
+    font-weight:600;
+    font-size: 16px;
+    color: black;
+    border: none;
+}
+
+
+    .ProfileBtn:hover {
+        background-color: rgb(0, 148, 255);
+        text-decoration: none;
+        color: #ffffff;
+        z-index: 1;
+        cursor: pointer;
+    }
+
+    .LogoutBtn:hover {
+        background-color: rgb(0, 148, 255);
+        text-decoration: none;
+        color: #ffffff;
+        z-index: 1;
+        cursor: pointer;
+    }
+
+
+.global-dropdown a:hover {
+    background-color: rgb(0, 148, 255);
+    text-decoration: none;
+    color: #ffffff;
+    z-index: 1;
+}
+
+
+.global-user
+{
+            background: url('../resource/icons/icon_drop.png') no-repeat right;
+            background-size: 30px 30px;
+            min-width:120px;
+}
+
+.global-user-a
+{
+            padding:5px 20px 5px 5px;
+}   
+
+.global-drop-drop:hover .global-dropdown 
+{
+            display: block;
+}
+
+.font-color 
+{
+            color: rgb(50,150,255);
+}
+
+.top-header 
+{
+            top: 0px;
+            right: 0px;
+            margin-left: 170px;
+            background-color:lightgray;
+            height: 150px;
+            border: 0;
+            display:none;
+}
+
+.sidenav 
+{   
+            background-image: linear-gradient( to right,rgb(61, 169, 247), rgb(1, 112, 228));
+            height: 100%;
+            display: inline-block;
+            width: 14%; /* Current Width Satisfied */
+            position: fixed;
+            top: 0;
+            overflow: auto;
+            left: 0;
+            background-color: rgb(16,92,144);
+            padding-top: 60px;
+            padding-left: 10px;
+            padding-right: 10px;
+            box-shadow: 2px 4px 10px 1px #8c8b8b;
+            border-top: 0px solid #ffffff;
+            border-bottom: 0px solid #ffffff;
+}
+
+
+.sidenav a 
+{
+        padding: 10px 20px 5px 35px;
+        text-decoration: none;
+        font-size: 16px;
+       /* font-family: 'Open Sans', sans-serif;*/
+       font-family:Arial;
+        color: #ffffff;
+        display: block;
+        width: 130px;
+        border-radius: 3px;
+        border-width: 0px;
+}
+
+.sidenav-last-list 
+{
+        padding-top:20%;
+}
+.sidenav a:hover 
+{
+        background-color: rgb(20,100, 225);
+}
+
+.Dashboard 
+{
+        background: url('../resource/icons/icon_home.png') no-repeat left;
+        background-size: 30px 30px;
+}
+
+.Settings {
+    background: url('../resource/icons/icon_settings.png') no-repeat left;
+    background-size: 30px 30px;
+}
+
+.Help {
+    background: url('../resource/icons/icon_help.png') no-repeat left;
+    background-size: 30px 30px;
+}
+
+.Transaction {
+    background: url('../resource/icons/icon_transaction.png') no-repeat left;
+    background-size: 30px 30px;
+}
+
+.Fee-recipt {
+    background: url('../resource/icons/icon_fees.png') no-repeat left;
+    background-size: 30px 30px;
+}
+
+.sidenav-btn-dash {
+    background: url('../resource/icons/icon_home.png') no-repeat left;
+    background-size: 30px 30px;
+    border: none;
+    padding: 5px 20px 5px 15px;
+    text-decoration: none;
+    font-size: 16px;
+    text-align: left;
+    font-family: 'Nunito', sans-serif;
+    color: #ffffff;
+    display: block;
+    width: 90%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;
+    border-width: 0px;
+}
+
+.sidenav-btn-trans 
+{
+    background: url('../resource/icons/icon_transaction.png') no-repeat left;
+    background-size: 30px 30px;
+    border: none;
+    padding: 5px 20px 5px 15px;
+    text-decoration: none;
+    font-size: 16px;
+    text-align: left;
+    font-family: 'Nunito', sans-serif;
+    color: #ffffff;
+    display: block;
+    width: 90%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;
+    border-width: 0px;
+}
+
+.sidenav-btn-settings {
+    background: url('../../resource/icons/icon_settings.png') no-repeat left;
+    background-size: 30px 30px;
+    border: none;
+    padding: 5px 20px 5px 15px;
+    text-decoration: none;
+    font-size: 16px;
+    text-align: left;
+    font-family: 'Nunito', sans-serif;
+    color: #ffffff;
+    display: block;
+    width: 90%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;
+    border-width: 0px;
+}
+
+.sidenav-btn-help 
+{
+    background: url('../../resource/icons/icon_help.png') no-repeat left;
+    background-size: 30px 30px;
+    border: none;
+    padding: 5px 20px 5px 15px;
+    text-decoration: none;
+    font-size: 16px;
+    text-align: left;
+    font-family: 'Nunito', sans-serif;
+    color: #ffffff;
+    display: block;
+    width: 90%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;
+    border-width: 0px;
+}
+
+.sidenav-btn-fee 
+{
+    background: url('../../resource/icons/icon_fees.png') no-repeat left;
+    background-size: 30px 30px;
+    border: none;
+    padding: 5px 20px 5px 15px;
+    text-decoration: none;
+    font-size: 16px;
+    text-align: left;
+    font-family: 'Nunito', sans-serif;
+    color: #ffffff;
+    display: block;
+    width: 90%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;
+    border-width: 0px;
+}
+.sidenav-btn-logout {
+    background: url('../../resource/icons/icon_logout.png') no-repeat left;
+    background-size: 30px 30px;
+    border: none;
+    padding: 5px 20px 5px 15px;
+    text-decoration: none;
+    font-size: 16px;
+    text-align: left;
+    font-family: 'Nunito', sans-serif;
+    color: #ffffff;
+    display: block;
+    width: 90%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;
+    border-width: 0px;
+}
+
+.sidenav-btn-fee:hover,
+.sidenav-btn-dash:hover,
+.sidenav-btn-logout:hover,
+.sidenav-btn-settings:hover,
+.sidenav-btn-help:hover,
+.sidenav-btn-trans:hover
+{
+
+    background-color: rgb(20,100, 225);
+    cursor: pointer;
+}
+
+
+.Logout {
+    background: url('../resource/icons/icon_logout.png') no-repeat left;
+    background-size: 30px 30px;
+}
+
+
+.main-content-access 
+{
+    margin-left: 200px;
+    display: block;
+    right: 0px;
+    margin-top: 100px;
+    min-height: 450px;
+    background-color:#eeeeee;
+}
+
+hr.line-simple 
+{
+        border: none;
+        height: 0.5px;
+        background-color: #eeeeee;
+}
+
+.pane-left 
+{
+        width: 90%;
+        height: 550px;
+        margin-left: 5%;
+        float: left;
+}
+
+.pane-right 
+{
+        width: 25%;
+        height: 550px;
+        background: rgb(200,30,50);
+        float: right;
+        right: 0;
+        top: 0;
+        left: 0;
+}
+
+.box-fee 
+{
+        height: 120px;
+        width: 200px;
+        border-radius: 10px;
+        padding: 0px 0px 0px 10px;
+        background-color: #19e233;
+        float: left;
+        padding: 0px 0px 0px 10px;
+        color: #ffffff;
+    
+}
+
+.box-paid 
+{
+        height: 120px;
+        width: 200px;
+        border-radius: 10px;
+        padding: 0px 0px 0px 10px;
+        background-color: rgb(0, 148, 255);
+        float: right;
+        margin-left: 5px;
+        color: #ffffff;
+}
+
+.fee-box a 
+{
+        font-size: 28px;
+}
+
+
+.fee-box 
+{
+    padding-top: 40px;
+    display: block;
+    float: right;
+    width: 430px;
+    margin-right: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.content 
+{
+        display: block;
+        margin-top: 120px;
+}
+
+.global-banner 
+{
+        display: block;
+        z-index:2;
+}
+
+.marquee 
+{
+        z-index:3;
+}
+.main-pane 
+{
+        display: block;
+        background-color: #eeeeee;
+        margin-top:120px;
+}
+
+.global-banner {
+    width: 89%;
+    background-color: #d4d4d4;
+    margin-top: 20px;
+    margin-left: 60px;
+    border: 1px solid #8c8b8b;
+    font-family: 'Oxygen';
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-weight: 700;
+    padding-left: 10px;
+    color: #1d1c1c;
+    font-size: 14px;
+}
+
+.sub-details-user {
+    margin-left: 30px;
+    width: 200px;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: dodgerblue;
+}
+
+.sub-base 
+{
+        display: block;
+        width: 400px;
+        margin-left: 30px;
+ 
+}
+.global-base 
+{
+        display:block;
+}
+.sub-base-left
+{
+        float:left;
+        margin-top:3%;
+}
+
+    .sub-base-left a 
+    {
+        font-family: 'Nunito', sans-serif;
+        font-size: 15px;
+        font-weight: 700;
+        color: #000;
+    }
+
+.sub-base-left-middle 
+{
+        float: left;  
+        margin-left: 2%;
+        margin-right: 2%;
+        margin-top: 3%;
+}
+    .sub-base-left-middle a 
+    {
+        font-family: 'Nunito', sans-serif;
+        font-size: 15px;
+        font-weight: 700;
+        color: #000;
+    }
+
+
+.sub-base-right 
+{
+        float: left;
+        margin-top: 3%;
+        max-width: 55%;    
+       
+}
+
+    .sub-base-right a 
+    {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 15px;
+        color: #2c2c2c;
+        font-weight: 600;
+    }
+
+/******************************************details -bar*/
+
+.global-ribbion-details 
+{
+        width: 72%;
+        height: 200px;
+        background: #ffffff;
+        margin-left: 5%;
+        margin-top: 20px;
+        border: 1px solid #c3bebe;
+        display: block;
+        box-shadow:0px -1px 20px -1px #8c8b8b;
+}
+
+.global-utility 
+{
+    width: 18%;
+    height: 200px;
+    background: #ffffff;
+    margin-top: 0px;
+    margin-right: 3%;
+    float: right;
+    border: 1px solid #c3bebe;
+    box-shadow: 2px 2px 20px 0px #8c8b8b;
+    /*
+    box-shadow: 1px 1px 20px 2px #8c8b8b;
+    */
+}
+    
+.global-ribbion-header 
+{
+        font-family: 'Nunito', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 17px;
+        color: #525252;
+        padding: 10px 10px 20px 30px;
+        font-weight: 600;
+}
+
+.global-ribbion-payment 
+{
+    width: 92%;
+    min-height: 200px;
+    background: #ffffff;
+    margin-left: 5%;
+    margin-top: 2%;
+    border: 1px solid #c3bebe;
+    display: block;
+    box-shadow: 0px -1px 20px -1px #8c8b8b;
+}
+
+.ribbion-details
+{
+        float:left;
+}
+
+.ribbion-content 
+{
+        display: block;
+        margin-left: 30px;
+        width: 700px;
+}
+
+.payment-title
+{
+        display:block;
+        height:50px;
+        width:100%;
+        margin-left:5%;
+}
+
+.main-panel 
+{
+        width: 90%;
+        min-height: 500px;
+        background: #ffffff;
+        margin-left: 6%;
+        margin-top: 5%;
+        border: 1px solid #c3bebe;
+        display: block;
+        margin-bottom:5%;
+        float:left;
+}
+
+.sub-header 
+{
+        background: rgb(0,144,255);
+        padding: 8px 10px 8px 30px;
+        background-image: linear-gradient( #0575E6, rgb(16, 105, 198));
+}
+
+.sub-header a 
+{
+        font-size: 20px;
+        font-weight: 600;
+        color: rgb(244,244,244);
+        font-family: 'Segoe UI';
+
+}
+
+.customers 
+{
+        font-family: Arial, sans-serif;
+        border-collapse: collapse;
+        width: 95%;
+        font-size: 15px;
+        margin-left: 30px;
+        margin-bottom: 4%;
+        font-weight: 500;
+}
+
+.customers td, .customers th 
+{
+        border: 1px solid #ddd;
+        padding: 3px 0px 3px 0px;
+        text-align:center;
+        color:#353535;
+}
+
+.customers tr:nth-child(even) 
+{
+        background-color: #ffffff;
+}
+
+.customers tr:hover 
+{
+        background-color: rgb(235,246,253);
+        cursor: pointer;
+}
+
+.utility-content-heading 
+{
+        margin-left:30px;
+        font-family:Arial;
+        color:rgb(16,92,144);
+        font-size:16px;
+        font-weight:600;
+}
+
+.utility-content-label 
+{
+        margin-left: 30px;
+        font-family: Arial;
+        color: #0d7c04;
+        font-size: 16px;
+        font-weight: 600;
+}
+
+.customers th 
+{
+        padding-top: 5px;
+        padding-bottom: 5px;
+        text-align: left;
+        background-color: rgb(0, 148, 255);
+        color: white;
+        text-align: center;
+        border: 0px solid;
+        font-family:'Segoe UI';
+}
+
+.pay-button
+{
+        min-width:100px;
+        padding-top:0px;
+        padding-bottom:0px;
+        font-family:'Segoe UI';
+        color:#ffffff;
+        background:rgb(0, 148, 255);
+        text-decoration:none;
+        border: 1px solid rgb(0, 148, 255);
+        border-radius:1px;
+        cursor:pointer;
+        font-size:16px;
+        font-weight:600;
+}
+
+.pay-button:hover
+{
+        background-color:rgb(8, 117, 232);
+}
+
+/***********************************Transcation table****************************/
+.transcations-table 
+{
+        font-family: 'Nunito', sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+        font-size: 15px;
+        margin-bottom: 20px;
+        font-weight: 500;
+}
+
+.transcations-table td, .transcations-table th 
+{
+        border: 1px solid #ddd;
+        padding: 5px 15px 3px 0px;
+        text-align: center;
+        color: #424242;
+}
+
+.transcations-table tr:nth-child(even) 
+{
+        background-color: #ffffff;
+}
+
+.transcations-table tr:hover 
+{
+        background-color: rgb(235,246,253);
+        cursor: pointer;
+}
+
+    /*Table header*/
+
+.transcations-table th 
+{
+        padding-top: 5px;
+        padding-bottom: 5px;
+        text-align: left;
+        background-color: rgb(0, 148, 255);
+        color: white;
+        text-align: center;
+        border:0px solid;
+}
+
+.version-footer
+{
+        float:right;
+        display:block;
+        margin-top:2%;
+        margin-right:5%;
+        margin-bottom:5%;
+}
+
+.version-footer a 
+{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 18px;
+        color: #8c8b8b;
+        font-weight: 600;
+}
+
+.ruppee-symbol 
+{
+        font-family:Arial;
+}
+
+h3 
+{
+    font-family: 'Arimo', sans-serif;
+}
+
+.head-logo 
+{
+    height: 10%;
+    width: 80%;
+    
+   
+}
+
+.head-text {
+    background-position: 0% left;
+    padding: 0px;
+    text-decoration: none;
+    font-size: 16px;
+    color: #ffffff;
+    display: block;
+    width: 100%;
+    display: block;
+    background-image: url('../resource/images/boxhead64.png');
+    background-repeat: no-repeat;
+}
+
+.head-text-bms 
+{
+    font-family: 'Showcard Gothic',Arial;
+    font-size: 30px;
+    margin-left:30%;
+}
+
+.head-text-text
+{
+    font-family:'Segoe UI';
+    text-align:right;
+    color:#ffffff;
+    font-weight:600;
+    font-size:18px;
+    margin-left:50%;
+}
+
+.loader-main 
+{
+    width: 100%;
+    height: 600px;
+    background-image: url('../resource/images/loader3.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100px 100px;
+}

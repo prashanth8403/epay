@@ -1,0 +1,316 @@
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\Rook_Atlas.dll.config
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\Rook_Atlas.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\Rook_Atlas.pdb
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\csc.exe
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\csc.exe.config
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\csc.rsp
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\csi.exe
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\csi.exe.config
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\csi.rsp
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.AppContext.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Console.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.IO.Compression.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Claims.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Threading.Thread.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.ValueTuple.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\vbc.exe
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\vbc.exe.config
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\vbc.rsp
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\VBCSCompiler.exe
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\MySql.Data.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\Newtonsoft.Json.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\Razorpay.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\Google.Protobuf.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\MySql.Data.xml
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\Newtonsoft.Json.xml
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\obj\Debug\epay.csprojAssemblyReference.cache
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\obj\Debug\epay.csproj.CopyComplete
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\obj\Debug\Rook_Atlas.dll
+C:\Users\PRASHANTH KUMAR\Documents\DBMS\epay\Rook_Atlas\obj\Debug\Rook_Atlas.pdb
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\Rook_Atlas.dll.config
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\Rook_Atlas.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\Rook_Atlas.pdb
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\csc.exe
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\csc.exe.config
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\csc.rsp
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\csi.exe
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\csi.exe.config
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\csi.rsp
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.AppContext.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Collections.Immutable.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Console.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Diagnostics.Process.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.IO.Compression.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.IO.FileSystem.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.IO.Pipes.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Reflection.Metadata.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.AccessControl.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Claims.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Threading.Thread.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.ValueTuple.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Xml.XPath.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\vbc.exe
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\vbc.exe.config
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\vbc.rsp
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\VBCSCompiler.exe
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\roslyn\VBCSCompiler.exe.config
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\MySql.Data.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\Newtonsoft.Json.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\Razorpay.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\Google.Protobuf.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\MySql.Data.xml
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\Newtonsoft.Json.xml
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\obj\Debug\epay.csprojAssemblyReference.cache
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\obj\Debug\epay.csproj.CoreCompileInputs.cache
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\obj\Debug\epay.csproj.CopyComplete
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\obj\Debug\Rook_Atlas.dll
+D:\Archive\BMSIT\DBMS\epay\Rook_Atlas\obj\Debug\Rook_Atlas.pdb
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\Rook_Atlas.dll.config
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\Rook_Atlas.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\Rook_Atlas.pdb
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\csc.exe
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\csc.exe.config
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\csc.rsp
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\csi.exe
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\csi.exe.config
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\csi.rsp
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.AppContext.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Collections.Immutable.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Console.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Diagnostics.Process.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.IO.Compression.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.IO.FileSystem.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.IO.Pipes.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Reflection.Metadata.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.AccessControl.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Claims.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Threading.Thread.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.ValueTuple.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Xml.XPath.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\vbc.exe
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\vbc.exe.config
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\vbc.rsp
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\VBCSCompiler.exe
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\roslyn\VBCSCompiler.exe.config
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\Newtonsoft.Json.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\Razorpay.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\Google.Protobuf.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\MySql.Data.xml
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\Newtonsoft.Json.xml
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\obj\Debug\epay.csprojAssemblyReference.cache
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\obj\Debug\epay.csproj.CoreCompileInputs.cache
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\obj\Debug\epay.csproj.CopyComplete
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\obj\Debug\Rook_Atlas.dll
+D:\Archive\bmsit-archive\DBMS\epay\Rook_Atlas\obj\Debug\Rook_Atlas.pdb
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\Rook_Atlas.dll.config
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\Rook_Atlas.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\Rook_Atlas.pdb
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\csc.exe
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\csc.exe.config
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\csc.rsp
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\csi.exe
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\csi.exe.config
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\csi.rsp
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.AppContext.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Console.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.IO.Compression.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.IO.Pipes.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Security.Claims.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Threading.Thread.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.ValueTuple.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\vbc.exe
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\vbc.exe.config
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\vbc.rsp
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\VBCSCompiler.exe
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\Newtonsoft.Json.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\Razorpay.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\Google.Protobuf.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\MySql.Data.xml
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\Newtonsoft.Json.xml
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\obj\Debug\epay.csprojAssemblyReference.cache
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\obj\Debug\epay.csproj.CoreCompileInputs.cache
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\obj\Debug\epay.csproj.CopyComplete
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\obj\Debug\Rook_Atlas.dll
+C:\Users\prash\OneDrive\Documents\WT Project\epay\Rook_Atlas\obj\Debug\Rook_Atlas.pdb
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\Rook_Atlas.dll.config
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\Rook_Atlas.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\Rook_Atlas.pdb
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\csc.exe
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\csc.exe.config
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\csc.rsp
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\csi.exe
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\csi.exe.config
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\csi.rsp
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.AppContext.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Collections.Immutable.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Console.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Diagnostics.Process.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.IO.Compression.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.IO.FileSystem.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.IO.Pipes.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Reflection.Metadata.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Security.AccessControl.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Security.Claims.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Threading.Thread.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.ValueTuple.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Xml.XPath.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\vbc.exe
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\vbc.exe.config
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\vbc.rsp
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\VBCSCompiler.exe
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\roslyn\VBCSCompiler.exe.config
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\Newtonsoft.Json.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\Razorpay.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\Google.Protobuf.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\MySql.Data.xml
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\Newtonsoft.Json.xml
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\obj\Debug\epay.csprojAssemblyReference.cache
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\obj\Debug\epay.csproj.CoreCompileInputs.cache
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\obj\Debug\epay.csproj.CopyComplete
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\obj\Debug\Rook_Atlas.dll
+D:\Archive\Projects\WT Project\epay\Rook_Atlas\obj\Debug\Rook_Atlas.pdb

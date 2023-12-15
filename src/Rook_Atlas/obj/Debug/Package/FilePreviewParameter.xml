@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="RookAtlass" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\prash\\Documents\\Atlas\\web\\Rook_Atlas\\Rook_Atlas\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\prash\\Documents\\Atlas\\web\\Rook_Atlas\\Rook_Atlas\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

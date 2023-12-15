@@ -1,0 +1,192 @@
+﻿/*
+    * (C) ROOK LABS ALL RIGHTS RESERVED 2018.
+    * AUTHOR : PRASHANTH KUMAR
+*/
+
+
+
+.btn {
+    background-color: #e84545;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    border: 0;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+    .btn:hover, .btn:focus {
+        background-color: #e52e2e;
+        color: #fff;
+    }
+
+.btn-large {
+    padding: 15px 40px;
+}
+
+a {
+    color: #e84545;
+}
+
+p {
+    font-size: 14px;
+    line-height: 22.4px;
+    color: #6c7279;
+}
+
+h1 {
+    font-size: 43px;
+    color: #2d3033;
+}
+
+h2 {
+    font-size: 30px;
+    color: #000;
+    font-weight: 100;
+}
+
+h3 {
+    font-size: 28px;
+    color: #2d3033;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+h4 {
+    font-size: 17px;
+    color: #000;
+    font-weight: 400;
+}
+
+h5 {
+    font-size: 14px;
+    color: #2d3033;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+a:hover, a:focus {
+    text-decoration: none;
+    -moz-transition: background-color, color, 0.3s;
+    -o-transition: background-color, color, 0.3s;
+    -webkit-transition: background-color, color, 0.3s;
+    transition: background-color, color, 0.3s;
+}
+
+.section {
+    padding: 100px 0;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.no-gutter [class*=col-] {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.section-title {
+    margin-top: 0;
+    letter-spacing: 2px;
+}
+
+    .section-title span {
+        font-weight: 400;
+    }
+
+.section-intro {
+    margin: 5% 10% 12% 10%;
+    color: #636363;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+
+.banner {
+    background-color: #1169f7;
+    height: 100vh;
+}
+
+.banner-text {
+    padding-top: 35%;
+}
+
+    .banner-text h1 {
+        color: #fff;
+        font-family: "Roboto", sans-serif;
+        font-weight: 100;
+        line-height: 48px;
+        margin-bottom: 5%;
+    }
+
+    .banner-text span {
+        font-weight: 300;
+    }
+
+    .banner-text p {
+        color: #fff;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 24px;
+        margin-bottom: 7%;
+    }
+
+.banner-img {
+    bottom: -186px;
+    position: relative;
+}
+
+.banner-btn a {
+    margin-right: 15px;
+    display: inline-block
+}
+
+.hook-name {
+    color: #FFFF00;
+    font-size: 15px;
+}
+
+    .hook-name:hover {
+        color: #0094ff;
+        cursor: pointer;
+    }
+
+
+.banner-btn-key a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+    color: #ffffff;
+}
+
+.banner-btn-key {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border: 2px solid #ffffff;
+    font-size: 18px;
+    border-radius: 5px;
+    max-width: 200px;
+    color: #ffffff;
+    text-align: center;
+}
+
+    .banner-btn-key:hover {
+        background-color: #ffffff;
+        color: #3b3be8;
+        -webkit-box-shadow: 2px 10px 41px -1px rgba(0,0,0,0.75);
+        -moz-box-shadow: 2px 10px 41px -1px rgba(0,0,0,0.75);
+        box-shadow: 2px 10px 41px -1px rgba(0,0,0,0.75);
+    }
+
+    .banner-btn-key a:hover {
+        color: #1169f7;
+        
+    }

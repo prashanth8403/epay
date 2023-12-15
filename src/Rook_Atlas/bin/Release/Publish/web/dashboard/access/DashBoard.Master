@@ -1,0 +1,113 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="DashBoard.master.cs" Inherits="Rook_Atlas.web.dashboard.access.DashBoard" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+    <title><%: Page.Title %> - BMSIT EPAY</title>
+    <link rel="icon" type="image/png" href="../../../favicon.png" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arimo|Hind+Madurai|Nanum+Gothic|Oxygen|Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons|Merriweather+Sans|Quicksand|Raleway|Nunito|Open+Sans|Questrial|Work+Sans|Asap|Didact+Gothic|Molengo|Mukta+Vaani|Codystar|Monoton|Nunito|Rubik" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+    <link href="../../../Index/Styles/Bengaluru.css" rel="stylesheet" />
+</head>
+
+<body onload="trans()">
+    <div class="wrapper ">
+        <form id="form1" runat="server">
+            <div class="sidebar" data-color="azure" data-background-color="#2167f2" data-image="dashboard/assets/img/sidebar-2.jpg">
+                <div class="logo" style="text-align:center;font-size:15px; color:#0094ff;">
+                    <a class="bmsit-text">BMSIT</a><a style="font-size:35px" class="epay-text"> EPAY</a>
+                </div>
+                <div class="sidebar-wrapper">
+                    <ul class="nav">
+                        <li id="home" class="nav-item active">
+                            <a class="nav-link" style="cursor: pointer;" onclick="homeload()">
+                                <i class="material-icons">home</i>
+                                <p>Home</p>
+                            </a>
+                        </li>
+                        <li id="transaction" class="nav-item ">
+                            <a class="nav-link" style="cursor: pointer;" onclick="transload()">
+                                <i class="material-icons">credit_card</i>
+                                <p>Transaction</p>
+                            </a>
+                        </li>
+                        <li class="nav-item ">
+                            <a class="nav-link" onclick="" href="#">
+                                <i class="material-icons">person_online</i>
+                                <p>Profile</p>
+                            </a>
+                        </li>
+                        <li class="nav-item ">
+                            <a class="nav-link" href="#">
+                                <i class="material-icons">settings</i>
+                                <p>Settings</p>
+                            </a>
+                        </li>
+                        <li class="nav-item ">
+                            <a class="nav-link" href="#">
+                                <i class="material-icons">rounded_corner</i>
+                                <p>Fee Recipt</p>
+                            </a>
+                        </li>
+                        <li class="nav-item ">
+                            <a class="nav-link" href="#">
+                                <i class="material-icons">help</i>
+                                <p>Help</p>
+                            </a>
+                        </li>
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <li class="nav-item ">
+                            <asp:LinkButton class="nav-link" ID="Logout" runat="server" OnClick="Logout_Click">
+                                <i class="material-icons">power_settings_new</i>
+                                <p>Logout</p>
+                            </asp:LinkButton>
+                           <!-- <a  href="#">
+                                
+                            </a> -->
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="main-panel">
+                <nav class="navbar navbar-expand-lg navbar-transparent navbar-absolute fixed-top ">
+                    <div class="container-fluid">
+                        <div class="navbar-wrapper">
+                            <a class="navbar-brand" href="#rook"><%: Page.Title %></a>
+                        </div>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="navbar-toggler-icon icon-bar"></span>
+                            <span class="navbar-toggler-icon icon-bar"></span>
+                            <span class="navbar-toggler-icon icon-bar"></span>
+                        </button>
+                    </div>
+                </nav>
+                <asp:ContentPlaceHolder ID="main_content" runat="server">
+                </asp:ContentPlaceHolder>
+                <footer class="footer">
+                    <div class="container-fluid">
+                        <div class="copyright float-right">
+                            &copy;
+                           ROOK LABS
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </form>
+    </div>
+    <script src="../../../Index/Scripts/LalBagh.js"></script>
+    <script src="../../../Index/Scripts/MysorePalace/js/core/bootstrap-material-design.min.js"></script>
+    <script src="../../../Index/Scripts/MysorePalace/js/core/jquery.min.js" type="text/javascript"></script>
+    <script src="../../../Index/Scripts/MysorePalace/js/core/popper.min.js" type="text/javascript"></script>
+    <script src="../../../Index/Scripts/MysorePalace/js/core/bootstrap-material-design.min.js" type="text/javascript"></script>
+    <script src="../../../Index/Scripts/MysorePalace/js/plugins/perfect-scrollbar.jquery.min.js"></script>
+    <script src="../../../Index/Scripts/MysorePalace/js/plugins/chartist.min.js"></script>
+    <script src="../../../Index/Scripts/MysorePalace/js/plugins/bootstrap-notify.js"></script>
+    <script src="../../../Index/Scripts/MysorePalace/js/material-dashboard.min.js?v=2.1.0" type="text/javascript"></script>
+</body>
+</html>

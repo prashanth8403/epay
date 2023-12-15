@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Dashboard.master.cs" Inherits="Rook_Atlas.web.dashboard.access.Dashboard" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title><%: Page.Title %> - Rook Technologies</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <link href="../../../content/styles/AccessStyle.css" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Asap|Didact+Gothic|Molengo|Mukta+Vaani|Nunito|Rubik" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans|Quicksand|Raleway" rel="stylesheet">
+        <link href="../../Sources/favicon/favicon.png" rel="shortcut icon">
+        
+        <div class="preview">
+        <div class="global-header">
+                <div class="global-panel-left">
+                </div>
+                <div class="global-panel-right">   
+                <div class="global-drop-drop">
+                <a class="global-user" href="#">
+                    <asp:Label ID="user_global" runat="server" Text="global.name" CssClass="global-user-a" ></asp:Label>
+                </a>
+                    <div class="global-dropdown">
+                            <a runat="server" class="Profile" href="Profile">View Profile</a>
+                            <a runat="server" class="Logout" href="~/Default">Logout</a>
+                    </div>
+                </div>
+                </div>
+        </div>
+        <div class="top-header">
+        </div>
+        <div class="sidenav">
+            <br />
+            <br />
+            <a runat="server" class="Dashboard" href="mypage">Dashboard</a>
+            <a runat="server" class="Transaction" href="transcations">Transaction</a>
+            <a runat="server" class="Fee-recipt" href="#">Fee Recipt</a>
+            <a runat="server" class="Settings" href="settings">Settings</a>
+            <a runat="server" class="Help" href="#">Help</a>
+            <div class="sidenav-last-list">
+            <a  runat="server" class="Logout" href="~/Default">Logout</a>
+            </div>
+        </div>
+        
+        <div class ="main-content-access">
+            <asp:ContentPlaceHolder id="access_content" runat="server">
+
+            </asp:ContentPlaceHolder> 
+        </div>
+        </div>
+        <div class="version-footer">
+            <a><i>SILICON</i>-LV</a><br />
+            <a>Ver. 1.0</a>
+        </div>
+    </form>
+</body>
+</html>
